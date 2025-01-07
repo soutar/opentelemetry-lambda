@@ -998,6 +998,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceproc
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor v0.116.0/go.mod h1:H1T/KD5SwsI/dQlavg0Bo+6gXuRYyxo0qdmCdLVbT0w=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/spanprocessor v0.116.0 h1:gWROitbdyfTt2HJYZQOJse5ii2nO5qvc3hhDzST8d48=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/spanprocessor v0.116.0/go.mod h1:E+vLogB2REjq4+4yGqEer0eCSbSDMBNEvvx3BfFQgE0=
+github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor v0.116.0 h1:q2Ug0KXJMDnUw1RCEEn6J07qQREWXD/KLBOa79DHJfM=
+github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor v0.116.0/go.mod h1:CBQvNUdQxsDzmMmfgxhLRqbHWA9BEhWe3E2FIe/DT+s=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor v0.116.0 h1:a48/8x5VSZSSBkdifVC0mSgNtdJ0M0GcRtX98VVd4nk=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor v0.116.0/go.mod h1:5MKetAGO0XkoZSqdoZhfxSoFq3hn7zmEYF4Yjf+i+CI=
 github.com/open-telemetry/opentelemetry-collector-contrib/receiver/dockerstatsreceiver v0.116.0 h1:OLowHsAE6HYo62BPGLKOCfS2GZZ7WcqIxs8serATZHE=

@@ -3,6 +3,7 @@ module github.com/open-telemetry/opentelemetry-lambda/collector/lambdacomponents
 go 1.23.1
 
 require (
+	github.com/open-telemetry/opentelemetry-collector-contrib/connector/datadogconnector v0.116.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector v0.116.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/datadogexporter v0.116.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v0.116.0
@@ -49,6 +50,7 @@ require (
 	github.com/DataDog/datadog-agent/comp/otelcol/logsagentpipeline/logsagentpipelineimpl v0.59.0 // indirect
 	github.com/DataDog/datadog-agent/comp/otelcol/otlp/components/exporter/logsagentexporter v0.62.0-devel.0.20241213165407-f95df913d2b7 // indirect
 	github.com/DataDog/datadog-agent/comp/otelcol/otlp/components/metricsclient v0.59.0 // indirect
+	github.com/DataDog/datadog-agent/comp/otelcol/otlp/components/statsprocessor v0.59.0 // indirect
 	github.com/DataDog/datadog-agent/comp/trace/compression/def v0.59.0 // indirect
 	github.com/DataDog/datadog-agent/comp/trace/compression/impl-gzip v0.59.0 // indirect
 	github.com/DataDog/datadog-agent/pkg/collector/check/defaults v0.59.0 // indirect
